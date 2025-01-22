@@ -29,7 +29,7 @@ const Card = ({ video }) => {
 
   return (
     <>
-    <CardContainer>
+    <CardContainer key={video.id} categoria={video.categoria}>
       <CardImage src={video.img} alt={video.title} />
       <CardActions>
         <IconButton onClick={() => deleteVideo(video.id)}>

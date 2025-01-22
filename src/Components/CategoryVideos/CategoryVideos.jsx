@@ -10,7 +10,7 @@ const CategoryVideos = () => {
     <div>
       {Object.keys(videoCategory).map((categoria) => (
         <div key={categoria}>
-          <CategoryTitle>{categoria}</CategoryTitle>
+          <CategoryTitle categoria={categoria}>{categoria}</CategoryTitle>
           <VideoList>
             {videoCategory[categoria].map((video) => (
               <Card key={video.id} video={video} />

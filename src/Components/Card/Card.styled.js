@@ -5,10 +5,11 @@ export const CardContainer = styled.div`
   width: 18.75rem;
   background-color: #fff;
   border-radius: 0.5rem;
-  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0.5rem 1rem ${({ theme, categoria }) => 
+    theme.colors.categoryColors[categoria] || "rgba(0, 0, 0, 0.1)"};
   overflow: hidden;
   transition: transform 0.3s;
-
+  margin: 20px;
   &:hover {
     transform: scale(1.05);
   }

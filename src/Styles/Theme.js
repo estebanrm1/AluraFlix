@@ -10,7 +10,7 @@ const theme = {
     categoryColors: {
       "Frontend": "#6bd1ff",
       "Backend": "#00c86f",
-      MOBILE: "#ffba05",
+      "Innovacion y gestion": "#ffba05",
     },
   },
 };
