@@ -3,7 +3,15 @@ import styled from "styled-components";
 export const BannerContainer = styled.div`
   position: relative;
   width: 100%;
-  height: 400px; /* Altura do banner */
+  height: 400px; 
+
+  @media (max-width: 576px) {
+    display: none;
+  }
+
+  @media (min-width: 577px) and (max-width: 992px) {
+    height: 300px; /* Ajustar altura */
+  }
 `;
 
 export const BannerBackground = styled.img`
@@ -17,6 +25,10 @@ export const BannerImg = styled.img`
   width: 550px;
   border-radius: 15px;
   box-shadow: 0px 0px 0.75rem 0.25rem rgb(252, 252, 252);
+
+  @media (max-width: 768px) {
+    width: 400px;
+  }
 `;
 
 export const BannerContent = styled.div`
