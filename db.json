@@ -1,0 +1,76 @@
+{
+  "videos": [
+    {
+      "titulo": "Soft skills",
+      "categoria": "Innovacion y gestion",
+      "img": "https://img.youtube.com/vi/YhR7Zp8NUzE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=VYhR7Zp8NUzE",
+      "descripcion": "Descubre las habilidades blandas más valoradas en el mercado laboral actual.",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "titulo": "Cómo usar IA para hacer un traductor de idiomas #AluraMás",
+      "categoria": "Innovacion y gestion",
+      "img": "https://img.youtube.com/vi/8iS8VZK1zSI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=8iS8VZK1zSI",
+      "descripcion": "Aprende a implementar inteligencia artificial para crear un traductor de idiomas."
+    },
+    {
+      "titulo": "¡Conociendo la API de Open AI #aluramás",
+      "categoria": "Backend",
+      "img": "https://i.ytimg.com/vi/tDG29s1IVx8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=tDG29s1IVx8",
+      "descripcion": "Te llevaremos paso a paso desde la creación de tu cuenta hasta la exploración de los principales recursos de la API",
+      "id": "4"
+    },
+    {
+      "id": "5",
+      "titulo": "¿Que son las Soft Skills?",
+      "categoria": "Innovacion y gestion",
+      "img": "https://i.ytimg.com/vi/vhwspfvI52k/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=vhwspfvI52k",
+      "descripcion": "En este video de Alura Tips, Pri Stuani nos habla de las habilidades más buscadas por las empresas"
+    },
+    {
+      "id": "6",
+      "titulo": "Base de datos con MySQL",
+      "categoria": "Backend",
+      "img": "https://i.ytimg.com/vi/59TU5iAd174/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=59TU5iAd174",
+      "descripcion": "Crear una base de datos local utilizando MySQL."
+    },
+    {
+      "id": "7",
+      "titulo": "¿Por qué utilizar React con Typescript? #aluratips",
+      "categoria": "Frontend",
+      "img": "https://i.ytimg.com/vi/RLZ7-ZfkwOE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=RLZ7-ZfkwOE",
+      "descripcion": "Te mostramos las diferencias clave entre usar React con JavaScript y hacerlo con TypeScript"
+    },
+    {
+      "id": "8",
+      "titulo": "Café Punto Tech #24 - Historias y Desafíos en Oracle Next Education",
+      "categoria": "Innovacion y gestion",
+      "img": "https://i.ytimg.com/vi/BG3nKAx3v4o/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=BG3nKAx3v4o",
+      "descripcion": "Conversaciones sobre experiencias y retos en el programa Oracle Next Education."
+    },
+    {
+      "id": "9",
+      "titulo": "¿Por qué estudiar Data Science?",
+      "categoria": "Innovacion y gestion",
+      "img": "https://i.ytimg.com/vi/7_UXo-aqAeM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=7_UXo-aqAeM",
+      "descripcion": "Explora las razones para especializarte en ciencia de datos y sus oportunidades."
+    },
+    {
+      "id": "10",
+      "titulo": "¿Qué Significa Pensar Como Programador?",
+      "categoria": "Innovacion y gestion",
+      "img": "https://i.ytimg.com/vi/ov7vA5HFe6w/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ov7vA5HFe6w",
+      "descripcion": "Christian Velasco nos habla de las principales características de un Programador."
+    }
+  ]
+}
