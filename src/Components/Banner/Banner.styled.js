@@ -16,7 +16,7 @@ export const BannerBackground = styled.img`
 export const BannerImg = styled.img`
   width: 550px;
   border-radius: 15px;
-  box-shadow: 0px 0px 0.75rem 0.25rem #2271d1;
+  box-shadow: 0px 0px 0.75rem 0.25rem rgb(252, 252, 252);
 `;
 
 export const BannerContent = styled.div`
